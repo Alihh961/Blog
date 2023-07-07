@@ -6,3 +6,5 @@
 - symfony console doctrine:migration:migrate
 - symfony server:start
 - symfony console make:controller 
+- symfony console security:hash-password
+- symfony console make:registration-form
