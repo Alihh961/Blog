@@ -1,6 +1,8 @@
 - composer require annotations
 - symfony console doctrine:database:create
+- symfony console make:User
 - symfony console make:entity
 - symfony console make:migration*
 - symfony console doctrine:migration:migrate
-- 
+- symfony server:start
+- symfony console make:controller 
