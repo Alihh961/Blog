@@ -2,4 +2,5 @@
 - symfony console doctrine:database:create
 - symfony console make:entity
 - symfony console make:migration*
-- symfony soncole doctrine:migration:migrate
+- symfony console doctrine:migration:migrate
+- 
